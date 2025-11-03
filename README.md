@@ -20,7 +20,7 @@
 ---
 
 ## General Info
-This project was developed across Weeks 7–12 to explore how **coded music** can support attention and calm in young learners (ages 6–9). The idea was to combine **creativity, education and technology** so teachers can play looping, predictable, research-informed music in class.
+This project was developed across Weeks 7–12 to explore how **coded music** can support attention and calm in young learners (ages 5–10). The idea was to combine **creativity, education and technology** so teachers can play looping, predictable, research-informed music in class.
 
 The repository contains:
 - final TunePad-based songs (see `src/songs/`)
