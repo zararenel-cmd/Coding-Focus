@@ -2,8 +2,11 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Technologies used](#technologies)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Audio](#audio)
+* 
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
